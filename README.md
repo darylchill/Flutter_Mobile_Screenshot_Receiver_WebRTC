@@ -1,3 +1,6 @@
+<p align="center"><a href="#" target="_blank"><img src="sample.webp"  alt="sample image" class='logo' style='mix-blend-mode:multiply'></a></p>
+
+
 # Flutter Mobile (Android/IOS) Screenshot Receiver
 
 A Flutter Mobile (Android and IOS) application powered by Flutter WebRTC to deliver real time communication between devices. Goal is to receive the stream of images of the desktop app and display them
